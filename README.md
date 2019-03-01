@@ -1,2 +1,4 @@
-# project-ideas
-Ideas for projects in the future
+### Project Ideas:
+1. Gravity simulator using BabylonJS/WebGL
+2. Music visualizer, web-based, VR
+3. Expanded typing game with vanilla JS and Babylon visuals
